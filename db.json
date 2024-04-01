@@ -1,0 +1,21 @@
+{
+  "cursos": [
+    {
+      "id": "1",
+      "plataforma": "Alura",
+      "titulo": "HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags",
+      "imagem": "https://www.alura.com.br/assets/api/cursos/html-css-ambiente-arquivos-tags.svg",
+      "certificado": "https://cursos.alura.com.br/certificate/a76402d8-6efd-492c-8989-83ad5d990334?lang=pt_BR",
+      "github":"https://github.com/RodrigoSAraujo/ProjetoAprendizado/tree/main/Proj%201%20-%20Portifolio",
+      "vercel":"https://projeto-aprendizado-9y3t6tik3-rodrigosaraujos-projects.vercel.app/"
+    },
+    {
+        "id": "2",
+        "plataforma": "Alura",
+        "titulo": "HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags",
+        "imagem": "https://www.alura.com.br/assets/api/cursos/html-css-ambiente-arquivos-tags.svg",
+        "certificado": "https://cursos.alura.com.br/certificate/a76402d8-6efd-492c-8989-83ad5d990334?lang=pt_BR",
+        "github":"https://github.com/RodrigoSAraujo/ProjetoAprendizado/tree/main/Proj%201%20-%20Portifolio",
+        "vercel":"https://projeto-aprendizado-9y3t6tik3-rodrigosaraujos-projects.vercel.app/"
+      }
+]}
